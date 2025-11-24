@@ -22,7 +22,7 @@ I'm a self-taught developer with a strong background in **Python**, **data proce
 
 I enjoy writing clean, efficient code and building systems that run quietly in the background doing useful work. I love automation, data analysis, and anything that involves understanding complex information and turning it into something meaningful.
 
-> ⚠️ **Fun fact:** I *really dislike Django* for me it has nothing to do with Python . I prefer lightweight, simple, direct tools over heavy frameworks. I prefer to build things my own way .
+> ⚠️ **Fun fact:** I *really dislike Django* for me it has nothing to do with Python , don't get me wrong , its good , secure and easy . But its only me . I prefer lightweight, simple, direct tools over heavy frameworks. I prefer to build things my own way .
 
 ---
 
